@@ -4,7 +4,6 @@ de idade e depois informa se cada pessoa está abaixo, acima ou na média da mé
 */
 
 #include <iostream>
-#include <cstddef>
 using namespace std;
 
 int main(){
